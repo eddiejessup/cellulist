@@ -1,7 +1,11 @@
+# OS X
+.DS_Store
+
 *.py[cod]
 
 # C extensions
 *.so
+*.so.dSYM
 
 # Packages
 *.egg
