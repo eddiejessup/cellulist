@@ -31,7 +31,7 @@ extensions = [
 
 setup(
     name='cellulist',
-    version='0.1.0',
+    version='0.1.1',
     description='Periodic cell list',
     long_description=readme + '\n\n' + history,
     author='Elliot Marsden',
